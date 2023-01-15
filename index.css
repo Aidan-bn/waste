@@ -29,3 +29,12 @@ nav > menu {
 menu > li:hover {
     cursor: pointer;
 }
+
+aside p {
+    padding: 20px;
+}
+
+a {
+    color: chocolate;
+    text-decoration: none;
+}
